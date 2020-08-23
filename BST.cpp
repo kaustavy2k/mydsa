@@ -1,4 +1,4 @@
-//IMPLEMENTATION OF BINARY SEARCH TREES..
+//IMPLEMENTATION OF BINARY SEARCH TREES.
 
 #include<cstddef>
 #include<iostream>
